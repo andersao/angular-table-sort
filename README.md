@@ -1,4 +1,4 @@
-Angular Table Utils
+Angular Table Sort
 ===================
 
 Instalação
