@@ -1,5 +1,5 @@
 angular
-    .module('prettus.table.utils',[])
+    .module('prettus.table.sort',[])
     .constant('prettusTableConfig',{
         'classAsc' :'fa fa-sort-asc',
         'classDesc':'fa fa-sort-desc',

@@ -9,7 +9,7 @@ Instalação
 Instale o pacote através do bower
 
 ```
-bower install prettus-table-utils
+bower install prettus-table-sort
 ```
 
 ### Adicione a dependencia no modulo da sua aplicação
@@ -17,7 +17,7 @@ bower install prettus-table-utils
 ```javascript
 angular.module('your-module', [
  	...,
-    'prettus.table.utils'
+    'prettus.table.sort'
 ]);
 ```
  
