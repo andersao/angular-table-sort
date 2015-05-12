@@ -4,6 +4,7 @@
   "authors": [
     "Anderson Andrade <contato@andersonandra.de>"
   ],
+  "main": "prettus-table-sort.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
